@@ -29,7 +29,7 @@ Tree2/2
 # 6. Alignments
 If the alignemnts are done in word level, the sequence between English and Chinese is different. For example, the short sentence gives an illustration that English uses the inverted order to place propositional phrases as attributive at the end.
 
-最高限額               為每人      5,000美元
+最高限額               為每人      5,000美元 \n
 the maximum allowed  per person  $5,000
 
 Another one is that the main verd "said" is different and Chinese places it after the subject.
